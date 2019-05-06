@@ -8,3 +8,6 @@ https://www.kaggle.com/lava18/google-play-store-apps/home
 
 App Store data source:
 https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home
+
+View my kernel on Kaggle here:
+https://www.kaggle.com/gmayock/profitable-app-profiles-for-the-app-store-google
